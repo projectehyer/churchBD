@@ -1,0 +1,36 @@
+{
+    "carouselData": [
+      {
+        "id": "1",
+        "title": "Um Lugar na Mesa! Episódio. 02",
+        "image": "https://paz.church/fortaleza/wp-content/uploads/sermons/2025/04/IMG_0547.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Lançamento Exclusivo",
+        "image": "https://via.placeholder.com/350x200"
+      },
+      {
+        "id": "3",
+        "title": "Novidades pra você",
+        "image": "https://via.placeholder.com/350x200"
+      }
+    ],
+    "newsData": [
+      {
+        "id": "1",
+        "title": "Domingo da Fé",
+        "content": "Neste Domingo ..."
+      },
+      {
+        "id": "2",
+        "title": "Notícia 2",
+        "content": "Resumo da notícia 2 de Hoje..."
+      },
+      {
+        "id": "3",
+        "title": "Notícia 3",
+        "content": "Resumo da notícia 3..."
+      }
+    ]
+  }
