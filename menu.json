@@ -23,6 +23,6 @@
       "title": "Meu Perfil",
       "icon": "person-outline",
       "route": "Perfil"
-    },
+    }
   ]
 }
