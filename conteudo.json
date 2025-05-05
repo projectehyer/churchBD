@@ -31,6 +31,11 @@
         "id": "3",
         "title": "Notícia 3",
         "content": "Resumo da notícia 3..."
-      }
+      },
+      {
+        "id": "4",
+        "title": "Notícia do GitHub Segunda 07:30",
+        "comtent": "Teste de adição de mais notícias..."
+      }     
     ]
   }
