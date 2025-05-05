@@ -17,6 +17,12 @@
       "title": "Eventos",
       "icon": "calendar-outline",
       "route": "Eventos"
-    }
+    },
+    {
+      "id": "4",
+      "title": "Meu Perfil",
+      "icon": "person-outline",
+      "route": "Perfil"
+    },
   ]
 }
