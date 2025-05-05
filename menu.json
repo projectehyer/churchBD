@@ -1,0 +1,16 @@
+{
+  "menuData": [
+    {
+      "id": "1",
+      "title": "Ministérios",
+      "icon": "people-outline",
+      "route": "Ministerios"
+    },
+    {
+      "id": "2",
+      "title": "Eventos",
+      "icon": "calendar-outline",
+      "route": "Eventos"
+    }
+  ]
+}
