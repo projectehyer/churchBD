@@ -37,7 +37,7 @@
       "route": "Perfil"
     },
     {
-      "id": "9",
+      "id": "7",
       "title": "Plano de Leitura Bíblica",
       "icon": "person-outline",
       "route": "Perfil"
@@ -48,10 +48,16 @@
       "icon": "person-outline",
       "route": "Perfil"
     },
-    
     {
       "id": "9",
       "title": "S.O.S Não é o Fim!",
+      "icon": "person-outline",
+      "route": "Perfil"
+    },
+    
+    {
+      "id": "10",
+      "title": "Negócios em Cristo!",
       "icon": "person-outline",
       "route": "Perfil"
     },
