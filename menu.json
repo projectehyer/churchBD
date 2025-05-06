@@ -53,12 +53,6 @@
       "title": "S.O.S Não é o Fim!",
       "icon": "person-outline",
       "route": "Perfil"
-    },
-    {
-      "id": "10",
-      "title": "Negócios em Cristo!",
-      "icon": "person-outline",
-      "route": "Perfil"
-    },
+    }
   ]
 }
