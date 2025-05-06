@@ -35,24 +35,6 @@
       "title": "Células",
       "icon": "person-outline",
       "route": "Perfil"
-    },
-    {
-      "id": "7",
-      "title": "Plano de Leitura Bíblica",
-      "icon": "person-outline",
-      "route": "Perfil"
-    },
-    {
-      "id": "8",
-      "title": "Redes Pastorias",
-      "icon": "person-outline",
-      "route": "Perfil"
-    },
-    {
-      "id": "9",
-      "title": "S.O.S Não é o Fim!",
-      "icon": "person-outline",
-      "route": "Perfil"
     }
   ]
 }
