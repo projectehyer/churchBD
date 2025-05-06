@@ -23,6 +23,18 @@
       "title": "Meu Perfil",
       "icon": "person-outline",
       "route": "Perfil"
+    },
+    {
+      "id": "5",
+      "title": "Meu Perfil",
+      "icon": "person-outline",
+      "route": "Perfil"
+    },
+    {
+      "id": "6",
+      "title": "Meu Perfil",
+      "icon": "person-outline",
+      "route": "Perfil"
     }
   ]
 }
