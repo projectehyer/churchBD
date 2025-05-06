@@ -26,13 +26,13 @@
     },
     {
       "id": "5",
-      "title": "Meu Perfil",
+      "title": "Séries",
       "icon": "person-outline",
       "route": "Perfil"
     },
     {
       "id": "6",
-      "title": "Meu Perfil",
+      "title": "Células",
       "icon": "person-outline",
       "route": "Perfil"
     }
